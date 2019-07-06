@@ -2,6 +2,8 @@
 
 void funcT(){}
 
+void funcTakeba(){}
+
 int main(void){
 
 	int *p;
