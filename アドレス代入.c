@@ -1,11 +1,6 @@
 #include<stdio.h>
 
-void func7(){
-}
-
 void funcT(){}
-
-void funcTakeba(){}
 
 int main(void){
 
@@ -18,5 +13,8 @@ return 0;
 }
 
 void bike(){
-  printf("bikeeee")
+  printf("bikebikebikebikecar")
+}
+
+void bike1(){
 }
