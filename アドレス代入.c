@@ -15,5 +15,5 @@ return 0;
 }
 
 void bike(){
-  printf("bikebikebikebikecar")
+  printf("bikeeee")
 }
