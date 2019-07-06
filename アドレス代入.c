@@ -1,5 +1,7 @@
 #include<stdio.h>
 
+void funcT(){}
+
 int main(void){
 
 	int *p;
