@@ -1,5 +1,11 @@
 #include<stdio.h>
 
+//êX
+void func100(){
+	printf("aaaaaaaaaaaa");
+}
+
+
 int main(void){
 
 	int *p;
