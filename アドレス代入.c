@@ -1,5 +1,8 @@
 #include<stdio.h>
 
+void func7(){
+}
+
 void funcT(){}
 
 void funcTakeba(){}
