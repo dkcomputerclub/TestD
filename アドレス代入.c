@@ -9,3 +9,7 @@ int main(void){
 	printf("&i = %p\n",&i);
 return 0;
 }
+
+void bike(){
+  printf("bikebikebikebikecar")
+}
